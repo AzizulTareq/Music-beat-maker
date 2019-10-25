@@ -40,27 +40,21 @@ window.addEventListener('load', () => {
             visual.removeChild(this);
         });
     };
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 //Azizul Hakim Tareq
 //Computer Science & Engineering
