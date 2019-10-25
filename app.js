@@ -45,6 +45,7 @@ window.addEventListener('load', () => {
     
     
     
+  
     
     
     
@@ -194,69 +195,8 @@ window.addEventListener('load', () => {
     
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-});
-
+//Thanks for scrolling!!!
 //Azizul Hakim Tareq
 //Computer Science & Engineering
-//North South University
+//North South University   
+});
